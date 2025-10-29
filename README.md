@@ -1,1 +1,1 @@
-This code repository provides the key code for the machine learning methodology section of the paper titled, "Interpretable machine learning model for overall survival prediction in patients with unresectable hepatocellular carcinoma after transarterial chemoembolization
+This code repository provides the key code for the machine learning methodology section of the paper titled, "Interpretable machine learning model for overall survival prediction in patients with unresectable hepatocellular carcinoma after transarterial chemoembolization."
